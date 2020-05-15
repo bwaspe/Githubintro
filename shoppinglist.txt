@@ -5,3 +5,4 @@ bananas
 meat
 carrots
 soap
+cereal
