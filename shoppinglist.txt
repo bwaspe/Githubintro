@@ -6,3 +6,5 @@ meat
 carrots
 soap
 cereal
+ding dongs
+ho hos
